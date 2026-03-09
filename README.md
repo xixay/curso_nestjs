@@ -7,7 +7,7 @@
 | **3.- clase 03** | [Ver](https://github.com/xixay/curso_nestjs_clase3) | **4. clase 04** | [Ver](https://github.com/xixay/curso_nestjs_clase4) |
 | **5.- clase 05** | [Ver](https://github.com/xixay/curso_nestjs_clase5) | **6. clase 06** | [Ver](https://github.com/xixay/curso_nestjs_clase6) |
 | **7.- clase 07** | [Ver](https://github.com/xixay/curso_nestjs_clase7) | **8. clase 08** | [Ver](https://github.com/xixay/curso_nestjs_clase8) |
-| **9.- clase 09** | [Ver](https://github.com/xixay/curso_nestjs_clase9) | | |
+| **9.- clase 09** | [Ver](https://github.com/xixay/curso_nestjs_clase9) | **10.- extra 01** | [Ver](https://github.com/xixay/curso_nestjs_extra1) |
 
 # Evaluaciones
 
