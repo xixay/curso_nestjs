@@ -1,0 +1,26 @@
+{
+  "name": "curso_nestjs",
+  "version": "1.0.0",
+  "description": "[<< INDICE](https://xixay.github.io/ayuda-memoria/)",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xixay/curso_nestjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xixay/curso_nestjs/issues"
+  },
+  "homepage": "https://github.com/xixay/curso_nestjs#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
