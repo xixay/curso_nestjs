@@ -5,7 +5,7 @@ export default defineConfig({
   description: "Documentación y repositorio del curso de NestJS",
   base: '/curso_nestjs/',
   themeConfig: {
-    logo: '/nestjs.svg',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg',
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Evaluaciones', link: '/evaluaciones' },

@@ -6,7 +6,7 @@ hero:
   text: "Documentación y Repositorios"
   tagline: "Índice de clases y material del curso."
   image:
-    src: /nestjs.svg
+    src: https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg
     alt: NestJS
   actions:
     - theme: brand
